@@ -1,4 +1,4 @@
-# Copilot Instructions for AI Coding Agents
+# Instructions
 
 ## Project Overview
 This is a Java Spring Boot application for a simple ToDo list system. The codebase is organized by domain (task, user, filter) under `src/main/java/br/com/lucasdev/todolist/`. The main entry point is `TodolistApplication.java`.
